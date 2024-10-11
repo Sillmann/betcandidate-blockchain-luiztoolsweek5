@@ -14,3 +14,5 @@ Tecnologias utilizadas:
 
 
 ![betcandidate2a](https://github.com/user-attachments/assets/31645a85-e4fe-42d7-895e-c3b7c866e069)
+
+![certificado_dapp_candidate_10_2024](https://github.com/user-attachments/assets/30afbb92-a0ad-4850-88c0-ed7a75d058e1)
